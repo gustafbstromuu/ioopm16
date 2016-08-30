@@ -330,9 +330,9 @@ talföljden går ned från 10 till 1 istället:
     2
     1
 
-## Nästade loopar
+## Nästlade loopar
 
-Nu skall vi experimentera med nästade loopar, dvs. loopar vars
+Nu skall vi experimentera med nästlade loopar, dvs. loopar vars
 loopkroppar innehåller loopar. Kopiera `p1.c` till `p3.c` och
 skriv om programmet så att det istället för tal skriver ut en
 ökande mängd `#`. Sist skall det skrivas ut hur många `#`
